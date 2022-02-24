@@ -21,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/css-flexbox-and-variables-xmhkNQfB_)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/qrcompcssflexboxandvariables-a2nbYFAcu)
 - Live Site URL: [Github Page](https://larkl.github.io/fm-qr-code-component/)
 
 ## My process
